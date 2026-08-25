@@ -121,14 +121,6 @@ If you are interested in my research or projects, feel free to contact me at [ta
 - Silver Award, China International College Students' Innovation Competition, Chongqing Division
 - Second Prize, Chongqing Collegiate Programming Contest, Python Division
 
-<h2 id="skills">Technical Skills</h2>
-
-- **Programming and Frameworks:** Python, PyTorch
-- **Reinforcement Learning:** MCTS, AlphaZero, EfficientZero, world models, and multi-task reinforcement learning
-- **Large Language Models:** Qwen, LLaMA, and DeepSeek; familiar with SFT, RLHF, and MoE
-- **Machine Learning:** contrastive learning, self-supervised learning, and continual learning
-- **Foundations:** probability, statistics, mathematical optimization, and convex optimization
-
 <h2 id="writing">Recent Posts</h2>
 
 <div class="writing-list">
