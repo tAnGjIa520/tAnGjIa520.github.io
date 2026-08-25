@@ -20,6 +20,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
 
 <div class="news-box">
   <ul class="news-list">
+    <li><span class="news-date"><em>2026</em></span> 🎉 <strong>One Model for All Tasks</strong> was accepted at ICLR 2026.</li>
     <li><span class="news-date"><em>2026</em></span> 🎉 Our first-author paper was accepted by <strong>Frontiers of Computer Science</strong>.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🚀 Joined Shanghai AI Laboratory as a research intern.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🧩 Started contributing to the development and maintenance of LightZero.</li>
@@ -67,9 +68,9 @@ If you are interested in my research or projects, feel free to contact me at [ta
 </div>
 
 <div class="research-card">
-  <span class="status-badge muted">Research Project</span>
+  <span class="status-badge">Accepted</span>
   <strong>One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning</strong><br>
-  <em>Contributor · Multi-Task Reinforcement Learning and World Models</em>
+  <em>Contributor · ICLR 2026</em>
   <p>We study the role of MoE in unified world models from both theoretical and empirical perspectives, focusing on sparse routing, expert specialization, and cross-task gradient interference. Our analysis examines how these mechanisms affect training stability, model plasticity, and multi-task generalization.</p>
 </div>
 
