@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="main-heading">Hi there 👋 I'm Tang Jia</h1>
 
-I am an M.Sc. candidate in **Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA)** and a research intern at **Shanghai AI Laboratory (Pujiang Laboratory)**. My research interests include **reinforcement learning, world models, continual learning, and Mixture-of-Experts**.
+I received my M.Sc. in **Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA)** and am currently an **Algorithm Engineer at Shanghai AI Laboratory (Pujiang Laboratory)**. My research interests include **reinforcement learning, world models, continual learning, and Mixture-of-Experts**.
 
 I aim to develop more efficient, stable, and general intelligent decision-making systems through theoretical analysis and practical engineering. I also contribute to the development and maintenance of the open-source [LightZero](https://github.com/opendilab/LightZero) framework.
 
@@ -79,7 +79,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
   <div class="profile-icon lab-icon">AI</div>
   <div class="experience-info">
     <strong>Shanghai AI Laboratory (Pujiang Laboratory)</strong><br>
-    <em>Research Intern · Center for Safe and Trustworthy AI · Jul. 2025 - Present</em>
+    <em>Algorithm Engineer · Present</em>
     <ul>
       <li>Conduct research on gradient interference in multi-task reinforcement learning as part of the ScaleZero project.</li>
       <li>Design and analyze Mixture-of-Experts architectures for multi-task modeling.</li>
