@@ -12,7 +12,7 @@ redirect_from:
 
 I received my M.Sc. in **Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA)** and am currently an **Algorithm Engineer at Shanghai AI Laboratory (Pujiang Laboratory)**. My research interests include **reinforcement learning, world models, continual learning, and Mixture-of-Experts**.
 
-I aim to develop more efficient, stable, and general intelligent decision-making systems through theoretical analysis and practical engineering. I also contribute to the development and maintenance of the open-source [LightZero](https://github.com/opendilab/LightZero) framework.
+I aim to develop more efficient, stable, and general intelligent decision-making systems through theoretical analysis and practical engineering.
 
 If you are interested in my research or projects, feel free to contact me at [tangjia@pjlab.org.cn](mailto:tangjia@pjlab.org.cn).
 
