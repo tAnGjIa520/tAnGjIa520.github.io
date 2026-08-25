@@ -20,6 +20,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
 
 <div class="news-box">
   <ul class="news-list">
+    <li><span class="news-date"><em>2026.06</em></span> 🚀 Officially joined Shanghai AI Laboratory as an Algorithm Engineer.</li>
     <li><span class="news-date"><em>2026</em></span> 🎉 <strong>One Model for All Tasks</strong> was accepted at ICLR 2026.</li>
     <li><span class="news-date"><em>2026</em></span> 🎉 Our first-author paper was accepted by <strong>Frontiers of Computer Science</strong>.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🚀 Joined Shanghai AI Laboratory as a research intern.</li>
@@ -80,7 +81,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
   <div class="profile-icon lab-icon">AI</div>
   <div class="experience-info">
     <strong>Shanghai AI Laboratory (Pujiang Laboratory)</strong><br>
-    <em>Algorithm Engineer · Present</em>
+    <em>Algorithm Engineer · Jun. 2026 - Present</em>
     <ul>
       <li>Conduct research on gradient interference in multi-task reinforcement learning as part of the ScaleZero project.</li>
       <li>Design and analyze Mixture-of-Experts architectures for multi-task modeling.</li>
