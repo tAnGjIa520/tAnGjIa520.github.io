@@ -4,8 +4,14 @@ main:
   - title: "动态"
     url: "/#news"
 
-  - title: "关于"
-    url: "/#about"
+  - title: "教育"
+    url: "/#education"
+
+  - title: "研究"
+    url: "/#research"
+
+  - title: "经历"
+    url: "/#experience"
 
   - title: "项目"
     url: "/#projects"

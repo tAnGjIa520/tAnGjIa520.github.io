@@ -4,12 +4,15 @@
 
 #news,
     #about,
+    #education,
+    #research,
     #experience,
     #publications,
     #projects,
+    #awards,
+    #skills,
     #writing,
     #contact,
-    #awards,
     #talks {
         scroll-margin-top: 80px;
     }
@@ -33,6 +36,69 @@
       display: flex;
       align-items: center;
       padding: 14px;
+    }
+
+    .detail-line {
+      color: #6b7280;
+      font-size: 0.92em;
+    }
+
+    .lab-icon {
+      font-size: 16px;
+      letter-spacing: 0.04em;
+    }
+
+    .research-card {
+      position: relative;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      border: 1px solid #e1e5e3;
+      border-radius: 12px;
+      background: #fff;
+      color: #5f6368;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.04);
+    }
+
+    .research-card.featured {
+      border-color: #f0bcae;
+      background: #fff8f5;
+    }
+
+    .research-card > strong {
+      display: inline-block;
+      max-width: calc(100% - 76px);
+      color: #202124;
+      font-size: 1.02em;
+      line-height: 1.5;
+    }
+
+    .research-card > em {
+      display: inline-block;
+      margin-top: 5px;
+      color: #6b7280;
+      font-size: 0.9em;
+    }
+
+    .research-card p {
+      margin: 13px 0 0;
+      line-height: 1.75;
+    }
+
+    .status-badge {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      padding: 3px 9px;
+      border-radius: 999px;
+      color: #fff;
+      background: #ca6f6f;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .status-badge.muted {
+      color: #48675f;
+      background: #e8f1ee;
     }
 
     .project-mark {
@@ -73,6 +139,7 @@
       .writing-item { grid-template-columns: 1fr; gap: 5px; }
       .project-inner { align-items: flex-start; }
       .project-mark { width: 58px; height: 58px; font-size: 18px; }
+      .research-card > strong { max-width: 100%; padding-top: 30px; }
     }
   
       /* ===== News Scroll Box ===== */
@@ -434,6 +501,4 @@
             color: #c71585;
             text-decoration: underline;
         }
-
-
 
