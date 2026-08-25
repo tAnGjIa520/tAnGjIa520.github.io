@@ -88,12 +88,6 @@ If you are interested in my research or projects, feel free to contact me at [ta
   <div class="experience-info">
     <strong>Shanghai AI Laboratory (Pujiang Laboratory)</strong><br>
     <em>Algorithm Engineer · Jun. 2026 - Present</em>
-    <ul>
-      <li>Conduct research on gradient interference in multi-task reinforcement learning as part of the ScaleZero project.</li>
-      <li>Design and analyze Mixture-of-Experts architectures for multi-task modeling.</li>
-      <li>Evaluate how expert configurations and routing strategies affect multi-task performance.</li>
-      <li>Develop, maintain, and debug components of the LightZero reinforcement learning framework.</li>
-    </ul>
   </div>
 </div>
 
