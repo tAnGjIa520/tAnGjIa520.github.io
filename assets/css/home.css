@@ -169,9 +169,15 @@
       background: #fff;
     }
 
-    .writing-item time {
+    .writing-item time,
+    .writing-source {
       color: #ca6f6f;
       font-size: 14px;
+    }
+
+    .writing-source {
+      font-weight: 700;
+      letter-spacing: 0.02em;
     }
 
     .writing-item p {

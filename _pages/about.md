@@ -140,15 +140,17 @@ If you are interested in my research or projects, feel free to contact me at [ta
 - Silver Award, China International College Students' Innovation Competition, Chongqing Division
 - Second Prize, Chongqing Collegiate Programming Contest, Python Division
 
-<h2 id="writing">Recent Posts</h2>
+<h2 id="writing">Blog</h2>
+
+<p class="section-intro">Selected technical articles originally published on Zhihu.</p>
 
 <div class="writing-list">
-{% for post in site.posts limit: 5 %}
+{% for article in site.data.zhihu_posts %}
   <article class="writing-item">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b. %d, %Y" }}</time>
+    <span class="writing-source">Zhihu ↗</span>
     <div>
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      {% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncate: 110 }}</p>{% endif %}
+      <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer"><strong>{{ article.title }}</strong></a>
+      <p>{{ article.topic }}</p>
     </div>
   </article>
 {% endfor %}

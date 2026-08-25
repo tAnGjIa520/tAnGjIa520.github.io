@@ -3,11 +3,32 @@ layout: archive
 permalink: /blog/
 title: "Blog"
 author_profile: true
+stylesheets:
+  - /assets/css/home.css
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+
+<p>Selected technical writing on reinforcement learning, world models, foundation models, and representation learning.</p>
+
+<h2 class="archive__subtitle">Published on Zhihu</h2>
+
+<div class="writing-list">
+{% for article in site.data.zhihu_posts %}
+  <article class="writing-item">
+    <span class="writing-source">Zhihu ↗</span>
+    <div>
+      <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer"><strong>{{ article.title }}</strong></a>
+      <p>{{ article.topic }}</p>
+    </div>
+  </article>
+{% endfor %}
+</div>
+
+{% if site.posts.size > 0 %}
+<h2 class="archive__subtitle">On This Site</h2>
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -17,3 +38,4 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
