@@ -1,14 +1,14 @@
-﻿# TangJia 的个人主页
+﻿# Tang Jia's Personal Website
 
-这是 [TangJia](https://github.com/tAnGjIa520) 的个人主页与博客，基于 WowPage 模板修改，并通过 GitHub Pages 发布。
+This is [Tang Jia's](https://github.com/tAnGjIa520) academic homepage and blog, adapted from the WowPage template and designed for deployment on GitHub Pages.
 
-个人信息主要在 `_config.yml` 中修改，主页内容位于 `_pages/about.md`，博客文章位于 `_posts/`。
+Profile settings are maintained in `_config.yml`, homepage content is located in `_pages/about.md`, and blog posts are stored in `_posts/`.
 
-## 模板来源
+## Template Source
 
-本项目基于 [WD7ang/WowPage](https://github.com/WD7ang/WowPage)，原模板采用 MIT License。
+This website is based on [WD7ang/WowPage](https://github.com/WD7ang/WowPage), which is distributed under the MIT License.
 
-## WowPage 原始说明
+## Original WowPage Documentation
 
 WowPage is a clean, responsive academic homepage built with Jekyll and adapted from the Academic Pages theme. It is designed for students, researchers, and engineers who want a personal website for introducing their profile, publications, projects, experience, awards, talks, services, and CV.
 

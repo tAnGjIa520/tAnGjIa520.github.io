@@ -1,21 +1,21 @@
 ---
-title: "你好，世界"
+title: "Hello, World"
 date: 2026-08-25 12:00:00 +0800
 categories:
-  - 随笔
+  - Notes
 tags:
-  - 开始
-excerpt: "这是博客的第一篇文章，也是一个新的开始。"
+  - Beginning
+excerpt: "The first post on my new website, and the beginning of a new chapter."
 ---
 
-欢迎来到我的个人博客。
+Welcome to my personal website and blog.
 
-这是网站的第一篇文章，也是一份可以随时替换的示例。以后只需要在 `_posts` 目录新建 Markdown 文件，就能继续发布文章。
+This is the first post on the site and a sample that can be replaced at any time. Future posts can be published by adding Markdown files to the `_posts` directory.
 
-## 为什么开始写博客？
+## Why start a blog?
 
-很多想法如果不及时记录，很快就会消失。建立这个空间，是希望把学习过的知识、做过的项目，以及生活中值得回看的瞬间保存下来。
+Ideas disappear quickly unless they are recorded. I created this space to preserve what I learn, the projects I build, and the moments worth revisiting.
 
-## 接下来
+## What's next?
 
-我会继续完善这里，并尝试稳定地写一些东西。希望下一次再见时，这里已经多了几篇真诚、有用的记录。
+I will continue improving this website and sharing notes on reinforcement learning, world models, continual learning, open-source development, and research practice.

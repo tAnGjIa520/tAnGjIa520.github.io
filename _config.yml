@@ -1,19 +1,19 @@
-locale                   : "zh-CN"
-title                    : "TangJia"
+locale                   : "en-US"
+title                    : "Tang Jia"
 title_separator          : "-"
-name                     : "TangJia"
-description              : &description "TangJia 的个人主页与博客，记录研究、技术和生活。"
+name                     : "Tang Jia"
+description              : &description "Tang Jia's academic homepage and blog on reinforcement learning, world models, and continual learning."
 url                      : "https://tangjia520.github.io"
 baseurl                  : ""
 repository               : "tAnGjIa520/tAnGjIa520.github.io"
 
 author:
   avatar           : "avatar.svg"
-  name             : "TangJia"
+  name             : "Tang Jia"
   pronouns         :
-  bio              : "强化学习、世界模型与持续学习"
-  location         : "上海 / 南京"
-  employer         : "上海人工智能实验室"
+  bio              : "Reinforcement Learning, World Models, and Continual Learning"
+  location         : "Shanghai / Nanjing, China"
+  employer         : "Shanghai AI Laboratory"
   uri              :
   email            : "tangjia@pjlab.org.cn"
 

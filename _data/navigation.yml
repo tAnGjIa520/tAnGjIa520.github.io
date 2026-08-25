@@ -1,22 +1,22 @@
 # main links links
 
 main:
-  - title: "动态"
+  - title: "News"
     url: "/#news"
 
-  - title: "教育"
+  - title: "Education"
     url: "/#education"
 
-  - title: "研究"
+  - title: "Research"
     url: "/#research"
 
-  - title: "经历"
+  - title: "Experience"
     url: "/#experience"
 
-  - title: "项目"
+  - title: "Projects"
     url: "/#projects"
 
-  - title: "文章"
+  - title: "Blog"
     url: "/blog/"
 
   - title: "GitHub"
