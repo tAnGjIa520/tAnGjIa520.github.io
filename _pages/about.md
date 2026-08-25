@@ -28,30 +28,6 @@ If you are interested in my research or projects, feel free to contact me at [ta
   </ul>
 </div>
 
-<h2 id="education">Education</h2>
-
-<div class="experience-container">
-  <div class="experience-card">
-    <div class="profile-icon">NU</div>
-    <div class="experience-info">
-      <strong>Nanjing University of Aeronautics and Astronautics</strong><br>
-      <em>Sep. 2023 - Apr. 2026</em><br>
-      M.Sc. in Computer Science and Technology, College of Computer Science and Technology / College of Artificial Intelligence<br>
-      <span class="detail-line">GPA: 4.65 / 5.00 · Recommended Admission · Special Scholarship for Incoming Graduate Students · Advisor: Prof. Songcan Chen</span>
-    </div>
-  </div>
-
-  <div class="experience-card">
-    <div class="profile-icon">SW</div>
-    <div class="experience-info">
-      <strong>Southwest University</strong><br>
-      <em>Sep. 2019 - Jul. 2023</em><br>
-      B.Eng. in Network Engineering, College of Computer and Information Science<br>
-      <span class="detail-line">GPA: 3.94 / 5.00 · Rank: 1 / 52 · National Special Scholarship · Outstanding Graduate</span>
-    </div>
-  </div>
-</div>
-
 <h2 id="research">Research</h2>
 
 <div class="research-card featured">
@@ -162,3 +138,27 @@ If you are interested in my research or projects, feel free to contact me at [ta
 </div>
 
 [View all posts →](/blog/){: .btn .btn--primary }
+
+<h2 id="education">Education</h2>
+
+<div class="experience-container">
+  <div class="experience-card">
+    <div class="profile-icon">NU</div>
+    <div class="experience-info">
+      <strong>Nanjing University of Aeronautics and Astronautics</strong><br>
+      <em>Sep. 2023 - Apr. 2026</em><br>
+      M.Sc. in Computer Science and Technology, College of Computer Science and Technology / College of Artificial Intelligence<br>
+      <span class="detail-line">GPA: 4.65 / 5.00 · Recommended Admission · Special Scholarship for Incoming Graduate Students · Advisor: Prof. Songcan Chen</span>
+    </div>
+  </div>
+
+  <div class="experience-card">
+    <div class="profile-icon">SW</div>
+    <div class="experience-info">
+      <strong>Southwest University</strong><br>
+      <em>Sep. 2019 - Jul. 2023</em><br>
+      B.Eng. in Network Engineering, College of Computer and Information Science<br>
+      <span class="detail-line">GPA: 3.94 / 5.00 · Rank: 1 / 52 · National Special Scholarship · Outstanding Graduate</span>
+    </div>
+  </div>
+</div>

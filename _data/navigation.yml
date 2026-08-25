@@ -4,9 +4,6 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Education"
-    url: "/#education"
-
   - title: "Research"
     url: "/#research"
 
@@ -18,6 +15,9 @@ main:
 
   - title: "Blog"
     url: "/blog/"
+
+  - title: "Education"
+    url: "/#education"
 
   - title: "GitHub"
     url: "https://github.com/tAnGjIa520"
