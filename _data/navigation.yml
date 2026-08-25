@@ -1,0 +1,17 @@
+# main links links
+
+main:
+  - title: "动态"
+    url: "/#news"
+
+  - title: "关于"
+    url: "/#about"
+
+  - title: "项目"
+    url: "/#projects"
+
+  - title: "文章"
+    url: "/blog/"
+
+  - title: "GitHub"
+    url: "https://github.com/tAnGjIa520"

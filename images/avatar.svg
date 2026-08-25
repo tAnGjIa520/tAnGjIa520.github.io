@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">TangJia avatar</title>
+  <desc id="desc">A green and coral monogram with the letters TJ.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#183f3a"/>
+      <stop offset="1" stop-color="#28695c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="96" fill="url(#bg)"/>
+  <circle cx="322" cy="78" r="44" fill="#d97961"/>
+  <path d="M75 105h176v50h-61v154h-55V155H75z" fill="#fffaf3"/>
+  <path d="M251 144h55v111c0 45-27 68-72 68-13 0-25-2-36-6l9-46c7 2 13 3 19 3 17 0 25-9 25-28z" fill="#fffaf3"/>
+</svg>
