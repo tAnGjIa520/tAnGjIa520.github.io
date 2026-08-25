@@ -71,6 +71,15 @@
       line-height: 1.5;
     }
 
+    .research-card > strong a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .research-card > strong a:hover {
+      color: #b95f3d;
+    }
+
     .research-card > em {
       display: inline-block;
       margin-top: 5px;
@@ -81,6 +90,43 @@
     .research-card p {
       margin: 13px 0 0;
       line-height: 1.75;
+    }
+
+    .research-figure {
+      margin: 18px 0 14px;
+    }
+
+    .research-figure > a {
+      display: block;
+      overflow: hidden;
+      border: 1px solid #e2e6e4;
+      border-radius: 10px;
+      background: #fff;
+    }
+
+    .research-figure img {
+      display: block;
+      width: 100%;
+      height: auto;
+      transition: transform 0.25s ease;
+    }
+
+    .research-figure > a:hover img {
+      transform: scale(1.015);
+    }
+
+    .research-figure figcaption {
+      margin-top: 7px;
+      color: #7b817e;
+      font-size: 12px;
+      line-height: 1.45;
+      text-align: center;
+    }
+
+    .research-figure figcaption a {
+      color: #b95f3d;
+      font-weight: 650;
+      white-space: nowrap;
     }
 
     .status-badge {
