@@ -54,7 +54,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
 <h2 id="research">Research</h2>
 
 <div class="research-card featured">
-  <span class="status-badge">Accepted</span>
+  <span class="status-badge">FCS</span>
   <strong>Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning</strong><br>
   <em>First Author · Frontiers of Computer Science (CCF-B / JCR Q1)</em>
   <p>We address feature entanglement in contrastive continual learning by introducing Global Pre-fixing, which establishes a globally separated task-level structure in an ETF prototype space. Our theoretical analysis characterizes the convergence of intra-class features toward regular simplices under the R2SCL constraint, improving both discriminability and inter-task separability.</p>
@@ -68,7 +68,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
 </div>
 
 <div class="research-card">
-  <span class="status-badge">Accepted</span>
+  <span class="status-badge">ICLR 2026</span>
   <strong>One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning</strong><br>
   <em>Contributor · ICLR 2026</em>
   <p>We study the role of MoE in unified world models from both theoretical and empirical perspectives, focusing on sparse routing, expert specialization, and cross-task gradient interference. Our analysis examines how these mechanisms affect training stability, model plasticity, and multi-task generalization.</p>
