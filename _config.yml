@@ -8,7 +8,7 @@ baseurl                  : ""
 repository               : "tAnGjIa520/tAnGjIa520.github.io"
 
 author:
-  avatar           : "avatar.svg"
+  avatar           : "avatar.jpg"
   name             : "Tang Jia"
   pronouns         :
   bio              : "Algorithm Engineer · Reinforcement Learning and World Models"
