@@ -55,29 +55,22 @@ If you are interested in my research or projects, feel free to contact me at [ta
 <h2 id="research">Research</h2>
 
 <div class="research-card featured">
-  <span class="status-badge">FCS</span>
-  <strong><a href="https://arxiv.org/abs/2509.15347">Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning</a></strong><br>
-  <em>First Author · Frontiers of Computer Science (CCF-B / JCR Q1)</em>
+  <span class="status-badge muted">arXiv</span>
+  <strong><a href="https://arxiv.org/abs/2605.12289">PriorZero: Bridging Language Priors and World Models for Decision Making</a></strong><br>
+  <em>Co-author · arXiv:2605.12289 · <a href="https://arxiv.org/abs/2605.12289">Abstract ↗</a> · <a href="https://arxiv.org/pdf/2605.12289">PDF ↗</a></em>
   <figure class="research-figure">
-    <a href="https://arxiv.org/pdf/2509.15347" aria-label="Open the GPLASC paper PDF">
-      <img src="/images/research/gplasc-overview.png" alt="Comparison between SupCon and the proposed global pre-fixing and local adjusting strategy" loading="lazy">
+    <a href="https://arxiv.org/pdf/2605.12289" aria-label="Open the PriorZero paper PDF">
+      <img src="/images/research/priorzero-overview.png" alt="PriorZero framework integrating language model priors, world models, and Monte Carlo tree search" loading="lazy">
     </a>
-    <figcaption>Figure 1 · Global pre-fixing and local adjusting <a href="https://arxiv.org/pdf/2509.15347">PDF ↗</a></figcaption>
+    <figcaption>Figure 2 · PriorZero framework overview <a href="https://arxiv.org/pdf/2605.12289">PDF ↗</a></figcaption>
   </figure>
-  <p>We address feature entanglement in contrastive continual learning by introducing Global Pre-fixing, which establishes a globally separated task-level structure in an ETF prototype space. Our theoretical analysis characterizes the convergence of intra-class features toward regular simplices under the R2SCL constraint, improving both discriminability and inter-task separability.</p>
-</div>
-
-<div class="research-card">
-  <span class="status-badge muted">Under Review</span>
-  <strong>KIBO: Label Disappearance-resistant Continual Multi-Instance Learning for Whole Slide Images</strong><br>
-  <em>First Author · Submitted to ECCV 2026</em>
-  <p>We propose KIBO, a bilevel key-instance selection framework for continual multi-instance learning. Under extremely limited memory budgets, KIBO replaces complete whole-slide images with pseudo bags and combines differentiable Top-K selection with a coarse-to-fine strategy to mitigate label disappearance and catastrophic forgetting in replay-based learning.</p>
+  <p>We propose PriorZero, a unified framework that integrates LLM-derived conceptual priors into world-model-based planning. Root-Prior Injection guides MCTS toward semantically promising actions while preserving deep lookahead, and alternating reinforcement fine-tuning uses world-model value estimates for stable LLM adaptation. Experiments on Jericho and BabyAI demonstrate improved exploration efficiency and asymptotic performance.</p>
 </div>
 
 <div class="research-card">
   <span class="status-badge">ICLR 2026</span>
   <strong><a href="https://arxiv.org/abs/2509.07945">One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning</a></strong><br>
-  <em>Contributor · ICLR 2026</em>
+  <em>Contributor · ICLR 2026 · <a href="https://arxiv.org/abs/2509.07945">arXiv ↗</a> · <a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/4f45d2471a82b3d674f3957ef6170996-Paper-Conference.pdf">PDF ↗</a></em>
   <figure class="research-figure">
     <a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/4f45d2471a82b3d674f3957ef6170996-Paper-Conference.pdf" aria-label="Open the ScaleZero paper PDF">
       <img src="/images/research/scalezero-overview.png" alt="ScaleZero multitask world model architecture and dynamic parameter scaling" loading="lazy">
@@ -88,16 +81,16 @@ If you are interested in my research or projects, feel free to contact me at [ta
 </div>
 
 <div class="research-card">
-  <span class="status-badge muted">arXiv</span>
-  <strong><a href="https://arxiv.org/abs/2605.12289">PriorZero: Bridging Language Priors and World Models for Decision Making</a></strong><br>
-  <em>Co-author · arXiv:2605.12289</em>
+  <span class="status-badge">FCS</span>
+  <strong><a href="https://arxiv.org/abs/2509.15347">Global Pre-fixing, Local Adjusting: A Simple yet Effective Contrastive Strategy for Continual Learning</a></strong><br>
+  <em>First Author · Frontiers of Computer Science (CCF-B / JCR Q1) · <a href="https://arxiv.org/abs/2509.15347">arXiv ↗</a> · <a href="https://arxiv.org/pdf/2509.15347">PDF ↗</a></em>
   <figure class="research-figure">
-    <a href="https://arxiv.org/pdf/2605.12289" aria-label="Open the PriorZero paper PDF">
-      <img src="/images/research/priorzero-overview.png" alt="PriorZero framework integrating language model priors, world models, and Monte Carlo tree search" loading="lazy">
+    <a href="https://arxiv.org/pdf/2509.15347" aria-label="Open the GPLASC paper PDF">
+      <img src="/images/research/gplasc-overview.png" alt="Comparison between SupCon and the proposed global pre-fixing and local adjusting strategy" loading="lazy">
     </a>
-    <figcaption>Figure 2 · PriorZero framework overview <a href="https://arxiv.org/pdf/2605.12289">PDF ↗</a></figcaption>
+    <figcaption>Figure 1 · Global pre-fixing and local adjusting <a href="https://arxiv.org/pdf/2509.15347">PDF ↗</a></figcaption>
   </figure>
-  <p>We propose PriorZero, a unified framework that integrates LLM-derived conceptual priors into world-model-based planning. Root-Prior Injection guides MCTS toward semantically promising actions while preserving deep lookahead, and alternating reinforcement fine-tuning uses world-model value estimates for stable LLM adaptation. Experiments on Jericho and BabyAI demonstrate improved exploration efficiency and asymptotic performance.</p>
+  <p>We address feature entanglement in contrastive continual learning by introducing Global Pre-fixing, which establishes a globally separated task-level structure in an ETF prototype space. Our theoretical analysis characterizes the convergence of intra-class features toward regular simplices under the R2SCL constraint, improving both discriminability and inter-task separability.</p>
 </div>
 
 <h2 id="experience">Experience</h2>
