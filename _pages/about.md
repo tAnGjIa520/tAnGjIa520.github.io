@@ -75,6 +75,13 @@ If you are interested in my research or projects, feel free to contact me at [ta
   <p>We study the role of MoE in unified world models from both theoretical and empirical perspectives, focusing on sparse routing, expert specialization, and cross-task gradient interference. Our analysis examines how these mechanisms affect training stability, model plasticity, and multi-task generalization.</p>
 </div>
 
+<div class="research-card">
+  <span class="status-badge muted">arXiv</span>
+  <strong><a href="https://arxiv.org/abs/2605.12289">PriorZero: Bridging Language Priors and World Models for Decision Making</a></strong><br>
+  <em>Co-author · arXiv:2605.12289</em>
+  <p>We propose PriorZero, a unified framework that integrates LLM-derived conceptual priors into world-model-based planning. Root-Prior Injection guides MCTS toward semantically promising actions while preserving deep lookahead, and alternating reinforcement fine-tuning uses world-model value estimates for stable LLM adaptation. Experiments on Jericho and BabyAI demonstrate improved exploration efficiency and asymptotic performance.</p>
+</div>
+
 <h2 id="experience">Experience</h2>
 
 <div class="experience-card">
