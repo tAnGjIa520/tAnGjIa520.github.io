@@ -181,6 +181,38 @@
       background: #fff;
     }
 
+    .writing-item--visual {
+      grid-template-columns: 170px minmax(0, 1fr);
+      align-items: center;
+    }
+
+    .writing-thumb {
+      display: grid;
+      place-items: center;
+      width: 100%;
+      aspect-ratio: 16 / 10;
+      overflow: hidden;
+      border: 1px solid #e2e6e4;
+      border-radius: 8px;
+      background: #f8faf9;
+    }
+
+    .writing-thumb img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      transition: transform 0.25s ease;
+    }
+
+    .writing-thumb:hover img {
+      transform: scale(1.025);
+    }
+
+    .writing-body {
+      min-width: 0;
+    }
+
     .writing-item time,
     .writing-source {
       color: #ca6f6f;
@@ -188,6 +220,8 @@
     }
 
     .writing-source {
+      display: block;
+      margin-bottom: 5px;
       font-weight: 700;
       letter-spacing: 0.02em;
     }
@@ -200,6 +234,8 @@
 
     @media (max-width: 560px) {
       .writing-item { grid-template-columns: 1fr; gap: 5px; }
+      .writing-item--visual { gap: 14px; }
+      .writing-thumb { max-width: 320px; }
       .project-inner { align-items: flex-start; }
       .project-mark { width: 58px; height: 58px; font-size: 18px; }
       .research-layout { grid-template-columns: 1fr; gap: 16px; }

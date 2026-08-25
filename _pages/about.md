@@ -127,9 +127,12 @@ If you are interested in my research or projects, feel free to contact me at [ta
 
 <div class="writing-list">
 {% for article in site.data.zhihu_posts %}
-  <article class="writing-item">
-    <span class="writing-source">Zhihu ↗</span>
-    <div>
+  <article class="writing-item writing-item--visual">
+    <a class="writing-thumb" href="{{ article.url }}" target="_blank" rel="noopener noreferrer" aria-label="Read {{ article.title }} on Zhihu">
+      <img src="{{ article.image }}" alt="{{ article.image_alt }}" loading="lazy">
+    </a>
+    <div class="writing-body">
+      <span class="writing-source">Zhihu ↗</span>
       <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer"><strong>{{ article.title }}</strong></a>
       <p>{{ article.topic }}</p>
     </div>
