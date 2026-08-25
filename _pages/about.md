@@ -124,13 +124,7 @@ If you are interested in my research or projects, feel free to contact me at [ta
     <div>
       <strong>LightZero</strong><br>
       <em>Contributor / Core Maintainer · 1,500+ GitHub Stars</em>
-      <p>LightZero is an open-source Monte Carlo tree search and reinforcement learning framework developed by OpenDILab. My primary contributions include:</p>
-      <ul>
-        <li>Decoupling simulation and expansion in MCTS and introducing asynchronous GPU scheduling to improve training throughput.</li>
-        <li>Porting and integrating EfficientZero V2 into LightZero.</li>
-        <li>Implementing a loss-landscape visualization and analysis toolkit.</li>
-        <li>Integrating the OpenReasoner-Zero reasoning evaluation module.</li>
-      </ul>
+      <p>LightZero is an open-source Monte Carlo tree search and reinforcement learning framework developed by OpenDILab.</p>
       <a href="https://github.com/opendilab/LightZero"><em>[Project Page]</em></a>
     </div>
   </div>
